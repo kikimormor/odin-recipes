@@ -1,0 +1,3 @@
+I practice adding html elements and attributes. I have learned the heading elements, ul and ol and li by heart, along with adding link element and its href attributes and img element along with its src and alt attributes.
+I also understand the difference between relative and absolute links. And I know to use Creative Commons images.git
+I am having some issues with the README because i accidentally created the repository with a readme instead of making it locally, so now i am facing the consequences.
